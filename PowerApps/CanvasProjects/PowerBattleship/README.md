@@ -18,9 +18,10 @@ Le package .zip contenant tout le nécessaire à l'importation de l'application 
 
 Il est a noté que l'application n'a aucun autre prérequis que son import dans les applications.
 
-## Créateur
+## Infos
 
 - [@Quentin | Frenchie Low-Codeur](https://github.com/Quentin-FrenchieLowCodeur)
+- [Présentation du projet au French Power Break](https://www.linkedin.com/events/frenchpowerbreak-novembre20237129925193807900674/comments/)
 
 
 
