@@ -3,7 +3,7 @@
 
 ## Le projet
 Si on te donnait moins de 10h pour développer un jeu, tu ferais quoi ?
-Tout part de là : se challenger sur la création d'un jeu en quelques heures.
+Tout part de là : se challenger sur la création d'un jeu de bataille navale dans une Power Apps Canevas, 100% en Power FX, en quelques heures.
 
 *9h plus tard...*
 
