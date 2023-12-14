@@ -20,8 +20,8 @@ Il est a noté que l'application n'a aucun autre prérequis que son import dans 
 
 ## Infos
 
-- [@Quentin | Frenchie Low-Codeur](https://github.com/Quentin-FrenchieLowCodeur)
 - [Présentation du projet au French Power Break](https://www.linkedin.com/events/frenchpowerbreak-novembre20237129925193807900674/comments/)
+- Créé par [@Quentin | Frenchie Low-Codeur](https://github.com/Quentin-FrenchieLowCodeur)
 
 
 
