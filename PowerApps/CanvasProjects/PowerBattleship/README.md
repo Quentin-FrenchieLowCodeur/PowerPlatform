@@ -14,7 +14,7 @@ Le package .zip contenant tout le nécessaire à l'importation de l'application 
 ## Comment l'installer ?
 
 - Télécharger le .zip PowerBattleship_V2.zip
-- Sur l'environnement de ton choix, importer le .zip via l'import d'application canevas.
+- Sur l'environnement de son choix, importer le .zip via l'import d'application canevas.
 
 Il est a noté que l'application n'a aucun autre prérequis que son import dans les applications.
 
