@@ -3,9 +3,7 @@
 
 ## Le projet
 Tu aimerais donner du feedback à tes utilisateurs lors de long chargement dans tes apps ou encore gérer des workflows complexes facilement, en traitant les erreurs ?
-SI oui, alors le chargement incrémentiel répond peut être ton besoin :)
-
-*9h plus tard...*
+Si oui, alors le chargement incrémentiel répond peut être ton besoin :)
 
 ## Ce que tu trouveras ici
 
